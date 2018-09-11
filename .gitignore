@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+*.log
+.vscode
+.sfdx
+.project
+.salesforce
+.settings
+
+# Ignore the contents of the built app
+force-app/main/default/staticresources/VueApp
